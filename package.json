@@ -30,6 +30,9 @@
   "keywords": [
     "gatsby"
   ],
+  "engines": {
+    "node": "18.x"
+  },
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
