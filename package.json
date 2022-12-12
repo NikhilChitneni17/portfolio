@@ -4,6 +4,9 @@
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "engines": {
+    "node": "18.9.0"
+  },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
     "bootstrap": "^5.0.2",
@@ -30,9 +33,6 @@
   "keywords": [
     "gatsby"
   ],
-  "engines": {
-    "node": "18.9.0"
-  },
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
