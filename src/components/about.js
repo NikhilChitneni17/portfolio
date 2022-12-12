@@ -24,7 +24,7 @@ const about = () => {
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>11 May 1999</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="http://nikhilchitneni.netlify.app" target="_blank">http://nikhilchitneni.netlify.app</a></span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://nikhil-chitneni.netlify.app/" target="_blank">https://nikhil-chitneni.netlify.app/</a></span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1-(470)-845-9172</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Atlanta, Georgia</span></li>
                 </ul>
