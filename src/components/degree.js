@@ -42,7 +42,7 @@ const degree = () => {
                             
                         </div>
                         <div className="col-8">
-                        <p>-</p>
+                        <p>4.09/4.3</p>
                             
                         </div>
                     </div>
